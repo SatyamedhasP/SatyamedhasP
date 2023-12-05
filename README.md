@@ -1,5 +1,5 @@
 - :wave: Hi, I'm @SatyamedhasP
-- 👀 I’m interested in data analysis, data science, machine learning and NLP
+- 👀 I’m interested in data analysis, data engineering, data science and machine learning
 - 🌱 I’m currently learning Generative AI, Time Series Analysis
 - 👯 I’m looking for Data Scientist/Data Analyst opportunities
 - 📫 How to reach me: satyamedhas18@gmail.com
